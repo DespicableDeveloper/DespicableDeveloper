@@ -1,4 +1,4 @@
-<h1 align="center">Hi, My Self Muhammad Anees Raza. Full Stack Developer from Pakistan.</h1>
+<h1 align="left">Hi, My Self Muhammad Anees Raza. Full Stack Developer from Pakistan.</h1>
 
 <h3 align="left">About Myself:</h3>
 <p align="left">I am Muhammad Anees Raza, a passionate Full Stack Developer from Pakistan. I enjoy building modern and user-friendly websites and web applications. I have experience working with different technologies like PHP, Laravel, C#, .NET , Frontend Mockup's. I always try to improve my skills and love to learn new things every day. My goal is to become a top-level developer and create useful software that can help people.
