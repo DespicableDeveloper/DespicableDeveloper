@@ -25,9 +25,9 @@
   <tr>
      <td>
       <h3>Connect with me:</h3>
-      - 👨‍💻 All of my Portfolio's are available at <a href="https://aneesraza.netlify.app" target="_blank">https://aneesraza.netlify.app</a><br><br>
-      - 📫 How to Reach me: **aneesraza789456@gmail.com** <br><br>
-      - ⚡ Fun fact: **Syntax Mistakes During Coding**
+      👨‍💻 All of my Portfolio's are available at <a href="https://aneesraza.netlify.app" target="_blank">https://aneesraza.netlify.app</a><br><br>
+      📫 How to Reach me: <strong>aneesraza789456@gmail.com</strong><br><br>
+      ⚡ Fun fact: <strong>Syntax Mistakes During Coding</strong>
     </td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" width="400px" /></td>
    
