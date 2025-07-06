@@ -22,7 +22,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" width="100%" /></p>
 
 
 <br clear="both">
