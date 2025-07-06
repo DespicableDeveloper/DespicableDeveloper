@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23079
-Fork on GitHub
-7760
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Muhammad Anees Raza, a passionate Full Stack Developer from Pakistan. I enjoy building modern and user-friendly websites and web applications. I have experience working with different technologies like PHP, Laravel, C#, .NET, JavaScript, and React. I always try to improve my skills and love to learn new things every day. My goal is to become a top-level developer and create useful software that can help people.</h1>
 <h3 align="center">I am Muhammad Anees Raza, a passionate Full Stack Developer from Pakistan. I enjoy building modern and user-friendly websites and web applications. I have experience working with different technologies like PHP, Laravel, C#, .NET, JavaScript, and React. I always try to improve my skills and love to learn new things every day. My goal is to become a top-level developer and create useful software that can help people.</h3>
 
@@ -35,28 +19,3 @@ preview
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=despicabledeveloper&show_icons=true&locale=en&layout=compact" alt="despicabledeveloper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
