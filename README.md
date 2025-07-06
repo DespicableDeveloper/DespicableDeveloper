@@ -21,16 +21,16 @@
 
 <br clear="both">
 
-<img src="https://aneesraza.netlify.app/assets/images/commit.svg" alt="Snake animation" />
-
-<h3 align="left">Connect with me:</h3>
-
-<p>
-    👨‍💻 All of my Portfolio's are available at <a href="https://aneesraza.netlify.app" target="_blank">https://aneesraza.netlify.app</a> &nbsp; | &nbsp;
-    📫 How to Reach me: <strong>aneesraza789456@gmail.com</strong> &nbsp; | &nbsp;
-    ⚡ Fun fact: <strong>Syntax Mistakes During Coding</strong>
-</p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" width="50%"  /></p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" width="400px" /></td>
+    <td>
+      <h3>Connect with me:</h3>
+      👨‍💻 All of my Portfolio's are available at <a href="https://aneesraza.netlify.app" target="_blank">https://aneesraza.netlify.app</a><br><br>
+      📫 How to Reach me: <strong>aneesraza789456@gmail.com</strong><br><br>
+      ⚡ Fun fact: <strong>Syntax Mistakes During Coding</strong>
+    </td>
+  </tr>
+</table>
 
 
