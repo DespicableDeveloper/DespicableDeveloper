@@ -20,3 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=despicabledeveloper&show_icons=true&locale=en&layout=compact" alt="despicabledeveloper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" /></p>
+
+
+<br clear="both">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
