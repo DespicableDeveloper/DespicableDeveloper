@@ -31,6 +31,6 @@
     ⚡ Fun fact: <strong>Syntax Mistakes During Coding</strong>
 </p>
 
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" width="50%"  /></p>
+
 
