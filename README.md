@@ -34,11 +34,3 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-- 👨‍💻 All of my Portfolio's are available at https://aneesraza.netlify.app
-
-- 📫 How to Reach me **aneesraza789456@gmail.com**
-
-- ⚡ Fun fact **Syntax Mistakes During Coding**
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" width="50%"  /></p>
