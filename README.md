@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://aneesraza.netlify.app/assets/images/commit.svg" alt="Snake animation" />
 
 
 <h3 align="left">Connect with me:</h3>
