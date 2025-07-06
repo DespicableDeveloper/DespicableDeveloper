@@ -1,7 +1,7 @@
-<h1 align="center">Hi, My Self Muhammad Anees Raza. I am a Full Stack Developer from Pakistan. </h1>
+<h1 align="center">Hi, My Self Muhammad Anees Raza. Full Stack Developer from Pakistan.</h1>
 
 <h3 align="left">About Myself:</h3>
-<p align="center">I am Muhammad Anees Raza, a passionate Full Stack Developer from Pakistan. I enjoy building modern and user-friendly websites and web applications. I have experience working with different technologies like PHP, Laravel, C#, .NET, JavaScript, and React. I always try to improve my skills and love to learn new things every day. My goal is to become a top-level developer and create useful software that can help people.
+<p align="center">I am Muhammad Anees Raza, a passionate Full Stack Developer from Pakistan. I enjoy building modern and user-friendly websites and web applications. I have experience working with different technologies like PHP, Laravel, C#, .NET , Frontend Mockup's. I always try to improve my skills and love to learn new things every day. My goal is to become a top-level developer and create useful software that can help people.
 </p>
 
 
@@ -18,7 +18,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=despicabledeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="despicabledeveloper" /> </p>
+
 <br clear="both">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -31,3 +31,4 @@
 
 - ⚡ Fun fact **Syntax Mistakes During Coding**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=despicabledeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="despicabledeveloper" /> </p>
