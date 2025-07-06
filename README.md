@@ -1,5 +1,5 @@
-<h1 align="center">Hi, my name is Muhammad Anees Raza. I am a Full Stack Developer from Pakistan. </h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" width="100%"  /></p>
+<h1 align="center">Hi, My Self Muhammad Anees Raza. I am a Full Stack Developer from Pakistan. </h1>
+
 <h3 align="left">About Myself:</h3>
 <p align="center">I am Muhammad Anees Raza, a passionate Full Stack Developer from Pakistan. I enjoy building modern and user-friendly websites and web applications. I have experience working with different technologies like PHP, Laravel, C#, .NET, JavaScript, and React. I always try to improve my skills and love to learn new things every day. My goal is to become a top-level developer and create useful software that can help people.
 </p>
@@ -22,7 +22,7 @@
 <br clear="both">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" width="100%"  /></p>
 
 <h3 align="left">Connect with me:</h3>
 - 👨‍💻 All of my Portfolio's are available at https://aneesraza.netlify.app
