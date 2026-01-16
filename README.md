@@ -25,9 +25,9 @@
   <tr>
      <td>
       <h3>Connect with me:</h3>
-      👨‍💻 All of my Portfolio's are available at <a href="https://aneesraza.netlify.app" target="_blank">https://aneesraza.netlify.app</a><br><br>
-     📫 How to Reach me: <a href="mailto:despicabledev110@gmail.com" target="_blank">despicabledev110@gmail.com</a><br><br>
-      ⚡ Fun fact: <strong>Syntax Mistakes During Coding</strong>
+      All of my Portfolio's are available at <a href="https://aneesraza.netlify.app" target="_blank">https://aneesraza.netlify.app</a><br><br>
+      How to Reach me: <a href="mailto:despicabledev110@gmail.com" target="_blank">despicabledev110@gmail.com</a><br><br>
+      Fun fact: <strong>Syntax Mistakes During Coding</strong>
     </td>
     <td><img src="https://aneesraza.netlify.app/assets/images/experiences/anees.webp" alt="despicable~developer" width="200px" /></td>
    
