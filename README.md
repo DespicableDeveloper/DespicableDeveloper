@@ -29,7 +29,7 @@
      📫 How to Reach me: <a href="mailto:despicabledev110@gmail.com" target="_blank">despicabledev110@gmail.com</a><br><br>
       ⚡ Fun fact: <strong>Syntax Mistakes During Coding</strong>
     </td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&locale=en" alt="despicabledeveloper" width="400px" /></td>
+    <td><img src="https://aneesraza.netlify.app/assets/images/banner/anees.webp" alt="despicable~developer" width="400px" /></td>
    
   </tr>
 </table>
