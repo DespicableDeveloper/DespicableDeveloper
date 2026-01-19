@@ -1,37 +1,100 @@
-<h1 align="left">Hi, My Self Muhammad Anees Raza</h1>
+<div align="center">
+  
+# 👋 Hi, I'm Muhammad Anees Raza
 
-<h3 align="left">About Myself:</h3>
-<p align="left">I am Muhammad Anees Raza, a passionate Full Stack Developer from Pakistan. I enjoy building modern and user-friendly websites and web applications. I have experience working with different technologies like PHP, Laravel, C#, .NET , Frontend Mockup's. I always try to improve my skills and love to learn new things every day. My goal is to become a top-level developer and create useful software that can help people.
-</p>
+### 🚀 Full Stack Developer | 🇵🇰 Pakistan
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Laravel+%7C+.NET+Expert;UI%2FUX+Designer;Always+Learning+New+Things!" alt="Typing SVG" />
 
+</div>
 
+---
 
+## 💫 About Me
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left"><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnetcore" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/></a></p>
-<br clear="both">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=despicabledeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="despicabledeveloper" /> </p>
+I am **Muhammad Anees Raza**, a passionate **Full Stack Developer** from Pakistan. I enjoy building modern and user-friendly websites and web applications. I have experience working with different technologies like **PHP, Laravel, C#, .NET, Frontend Mockups**. 
 
+I always try to improve my skills and love to learn new things every day. My goal is to become a top-level developer and create useful software that can help people.
 
+---
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,html,css,js,bootstrap" alt="Languages" />
 
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="48" height="48"/>
 
-<br clear="both">
+### 🎨 Design & Tools
+<img src="https://skillicons.dev/icons?i=figma,wordpress" alt="Tools" />
+<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=despicabledeveloper&label=Profile%20Views&color=667eea&style=for-the-badge)
+
+<img src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=FFD700&fire=FFD700&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=despicabledeveloper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=despicabledeveloper&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
 
 <table>
   <tr>
-     <td>
-      <h3>Connect with me:</h3>
-      All of my Portfolio's are available at <a href="https://aneesraza.netlify.app" target="_blank">https://aneesraza.netlify.app</a><br><br>
-      How to Reach me: <a href="mailto:despicabledev110@gmail.com" target="_blank">despicabledev110@gmail.com</a><br><br>
-      Fun fact: <strong>Syntax Mistakes During Coding</strong>
+    <td align="center" width="50%">
+      
+### 🌐 Portfolio
+**[aneesraza.netlify.app](https://aneesraza.netlify.app)**
+
+### 📧 Email
+**[despicabledev110@gmail.com](mailto:despicabledev110@gmail.com)**
+
+### 😄 Fun Fact
+**Syntax Mistakes During Coding**
+
+</td>
+    <td align="center" width="50%">
+      <img src="https://aneesraza.netlify.app/assets/images/experiences/anees.webp" alt="Muhammad Anees Raza" width="200px" style="border-radius: 50%; border: 3px solid #667EEA;"/>
     </td>
-    <td><img src="https://aneesraza.netlify.app/assets/images/experiences/anees.webp" alt="despicable~developer" width="200px" /></td>
-   
   </tr>
 </table>
 
+</div>
 
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad!" – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667EEA&height=100&section=footer" />
+
+</div>
