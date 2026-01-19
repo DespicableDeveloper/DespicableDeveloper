@@ -173,7 +173,7 @@ const approach: DevelopmentPrinciples = {
     <tr>
       <td align="center" width="60%">
         <h3>Contact Information</h3>
-        <p><strong>Location:</strong> Lahore, Pakistan</p>
+        <p><strong>Location:</strong> Karachi, Pakistan</p>
         <p><strong>Email:</strong> <a href="mailto:despicabledev110@gmail.com">despicabledev110@gmail.com</a></p>
         <p><strong>Portfolio:</strong> <a href="https://aneesraza.netlify.app" target="_blank">aneesraza.netlify.app</a></p>
         <br>
