@@ -1,216 +1,341 @@
-<!-- Header Banner -->
+<!-- Cinematic Header with Animated Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Muhammad%20Anees%20Raza&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=MUHAMMAD%20ANEES%20RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Problem%20Solver&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
 </div>
 
-<!-- Professional Introduction -->
+<!-- Animated Typing Effect -->
 <div align="center">
-  <h3>Crafting Scalable Web Solutions with Modern Technologies</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/muhammad-anees-raza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:despicabledev110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://aneesraza.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-    <img src="https://komarev.com/ghpvc/?username=despicabledeveloper&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
-  </p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Scalable+Web+Solutions;Passionate+About+Clean+Code;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
 </div>
 
----
+<!-- Glowing Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-anees-raza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:despicabledev110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://aneesraza.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=764BA2" alt="Portfolio"/>
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=despicabledeveloper&label=PROFILE+VIEWS&color=667eea&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/despicabledeveloper?label=Followers&style=for-the-badge&color=764BA2&labelColor=667EEA" alt="Followers"/>
+</p>
 
-## Executive Summary
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Senior Full Stack Developer with proven expertise in building enterprise-grade web applications. Specialized in backend architecture using **Laravel** and **.NET**, with strong frontend capabilities. Committed to delivering robust, maintainable, and scalable solutions that drive business value.
+<!-- About Me Section with Icons -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+  ABOUT ME 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</h2>
 
-**Core Focus Areas:**
-- Enterprise Web Application Development
-- RESTful API Design & Implementation
-- Database Architecture & Optimization
-- Modern Frontend Development
-- UI/UX Design & Prototyping
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
----
-
-## Technology Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Backend Development
-```yaml
-Languages:
-  - PHP (Advanced)
-  - C# (Advanced)
-  - SQL (Proficient)
-
-Frameworks:
-  - Laravel 8.x/9.x/10.x
-  - .NET Core / .NET Framework
-  - ASP.NET MVC
-
-Architecture:
-  - MVC Pattern
-  - RESTful API Design
-  - Microservices Concepts
-  - Repository Pattern
-```
-
-</td>
-<td width="50%" valign="top">
-
-### Frontend Development
-```yaml
-Core Technologies:
-  - HTML5 / Semantic Markup
-  - CSS3 / Responsive Design
-  - JavaScript (ES6+)
-
-Frameworks & Tools:
-  - Bootstrap 4/5
-  - jQuery
-  - AJAX / Fetch API
-
-Design:
-  - Figma (UI/UX Design)
-  - Canva (Graphics)
-  - Responsive Web Design
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Database Management
-```yaml
-Relational Databases:
-  - MySQL (Advanced)
-  - Microsoft SQL Server (Proficient)
-
-Skills:
-  - Database Design & Normalization
-  - Query Optimization
-  - Stored Procedures
-  - Data Migration
-```
-
-</td>
-<td width="50%" valign="top">
-
-### Tools & Platforms
-```yaml
-Version Control:
-  - Git / GitHub
-
-CMS:
-  - WordPress (Theme & Plugin Dev)
-
-Development Tools:
-  - Visual Studio / VS Code
-  - PHPStorm / Sublime Text
-  - Postman (API Testing)
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## Professional Competencies
-
-<div align="center">
-
-| Backend Engineering | Frontend Development | Database Design | DevOps & Tools |
-|:-------------------:|:--------------------:|:---------------:|:--------------:|
-| Laravel Framework | Responsive UI/UX | MySQL Optimization | Git Workflow |
-| .NET Core | Bootstrap Framework | SQL Server | API Testing |
-| RESTful APIs | JavaScript ES6+ | Database Migration | Code Review |
-| MVC Architecture | AJAX Integration | Query Performance | Agile Methods |
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true&hide_title=false&title_color=667eea&icon_color=667eea&text_color=333&bg_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=despicabledeveloper&layout=compact&theme=graywhite&hide_border=true&title_color=667eea&text_color=333&bg_color=ffffff&langs_count=6"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=despicabledeveloper&theme=graywhite&hide_border=true&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=333" alt="GitHub Streak"/>
-</div>
-
----
-
-## Development Philosophy
+<div align="left" style="padding: 20px;">
 
 ```typescript
-interface DevelopmentPrinciples {
-  codeQuality: "Clean, maintainable, and well-documented";
-  architecture: "Scalable and modular design patterns";
-  testing: "Comprehensive testing for reliability";
-  learning: "Continuous improvement and skill development";
-  collaboration: "Effective communication and teamwork";
-}
-
-const approach: DevelopmentPrinciples = {
-  codeQuality: "Writing code that others can understand and extend",
-  architecture: "Building solutions that scale with business needs",
-  testing: "Ensuring robustness through thorough testing",
-  learning: "Staying current with industry best practices",
-  collaboration: "Contributing to team success and knowledge sharing"
+const muhammadAneesRaza = {
+    role: "Senior Full Stack Developer",
+    location: "Karachi, Pakistan 🇵🇰",
+    code: ["PHP", "C#", "JavaScript", "SQL", "HTML/CSS"],
+    technologies: {
+        backend: {
+            php: ["Laravel 8/9/10", "WordPress"],
+            csharp: [".NET Core", "ASP.NET MVC"]
+        },
+        frontend: ["Bootstrap 5", "jQuery", "AJAX", "Responsive Design"],
+        databases: ["MySQL", "MS SQL Server"],
+        design: ["Figma", "UI/UX Design", "Canva"]
+    },
+    architecture: ["MVC", "RESTful APIs", "Microservices"],
+    currentFocus: "Building enterprise-grade applications",
+    funFact: "I debug code faster than I debug my life 🐛"
 };
 ```
 
----
+</div>
 
-## Professional Profile
+<br clear="right"/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Tech Stack with Glowing Effect -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> 
+  TECHNOLOGY ARSENAL 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
+</h2>
+
+<div align="center">
+
+### 🎯 Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&shadow=0px_4px_15px_0px_rgba(255,45,32,0.4)" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+</p>
+
+### 🗄️ Database & Storage
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Expertise Matrix -->
+<h2 align="center">
+  🚀 EXPERTISE MATRIX
+</h2>
+
+<div align="center">
+
+| 💻 Backend Engineering | 🎨 Frontend Development | 🗃️ Database Design | ⚙️ DevOps & Tools |
+|:----------------------:|:-----------------------:|:------------------:|:-----------------:|
+| ⭐⭐⭐⭐⭐ Laravel | ⭐⭐⭐⭐⭐ Responsive UI | ⭐⭐⭐⭐⭐ MySQL | ⭐⭐⭐⭐ Git |
+| ⭐⭐⭐⭐ .NET Core | ⭐⭐⭐⭐⭐ Bootstrap | ⭐⭐⭐⭐ SQL Server | ⭐⭐⭐⭐ API Testing |
+| ⭐⭐⭐⭐⭐ RESTful APIs | ⭐⭐⭐⭐ JavaScript | ⭐⭐⭐⭐ Query Optimization | ⭐⭐⭐⭐ Code Review |
+| ⭐⭐⭐⭐⭐ MVC Pattern | ⭐⭐⭐⭐ AJAX | ⭐⭐⭐⭐ Data Migration | ⭐⭐⭐⭐ Agile |
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Stats with Dark Theme -->
+<h2 align="center">
+  📊 GITHUB ANALYTICS
+</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E6EDF3&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=despicabledeveloper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E6EDF3&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&theme=github-compact&hide_border=true&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B" alt="Contribution Graph"/>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Trophies -->
+<h2 align="center">
+  🏆 GITHUB TROPHIES
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=despicabledeveloper&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Development Philosophy -->
+<h2 align="center">
+  💡 DEVELOPMENT PHILOSOPHY
+</h2>
+
+<div align="center">
+
+```typescript
+interface DeveloperMindset {
+    codeQuality: "Clean, maintainable, and well-documented",
+    architecture: "Scalable and future-proof design",
+    testing: "Comprehensive testing for reliability",
+    learning: "Continuous growth and adaptation",
+    collaboration: "Effective teamwork and communication"
+}
+
+const myApproach: DeveloperMindset = {
+    codeQuality: "Writing code that tells a story",
+    architecture: "Building solutions that stand the test of time",
+    testing: "Ensuring robustness through rigorous testing",
+    learning: "Embracing new technologies and best practices",
+    collaboration: "Lifting the team through knowledge sharing"
+};
+
+// Core Belief
+console.log("Great software is built by great people, not just great code");
+```
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Activity Graph -->
+<h2 align="center">
+  📈 CONTRIBUTION ACTIVITY
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&custom_title=Muhammad%20Anees%20Raza's%20Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area_color=667EEA&area=true&hide_border=true&theme=github-compact" width="100%"/>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Professional Highlights -->
+<h2 align="center">
+  ⚡ PROFESSIONAL HIGHLIGHTS
+</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60px"/>
+      <br/><b>Clean Code</b>
+      <p>Writing maintainable and scalable solutions</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/api.png" width="60px"/>
+      <br/><b>API Design</b>
+      <p>RESTful architecture expert</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/database.png" width="60px"/>
+      <br/><b>Database Pro</b>
+      <p>Optimized queries & architecture</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="60px"/>
+      <br/><b>Full Stack</b>
+      <p>End-to-end development</p>
+    </td>
+  </tr>
+</table>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- What I'm Up To -->
+<h2 align="center">
+  🎯 CURRENTLY WORKING ON
+</h2>
+
+<div align="center">
+
+```javascript
+const currentProjects = [
+    "🚀 Building enterprise-grade Laravel applications",
+    "💡 Mastering advanced .NET Core patterns",
+    "📊 Optimizing database performance",
+    "🎨 Creating responsive UI/UX experiences",
+    "📚 Contributing to open-source projects"
+];
+
+currentProjects.forEach(project => {
+    console.log(`✨ ${project}`);
+});
+```
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Contact Section with Style -->
+<h2 align="center">
+  📫 LET'S CONNECT
+</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="60%">
-        <h3>Contact Information</h3>
-        <p><strong>Location:</strong> Karachi, Pakistan</p>
-        <p><strong>Email:</strong> <a href="mailto:despicabledev110@gmail.com">despicabledev110@gmail.com</a></p>
-        <p><strong>Portfolio:</strong> <a href="https://aneesraza.netlify.app" target="_blank">aneesraza.netlify.app</a></p>
-        <br>
-        <p><em>Available for freelance projects and full-time opportunities</em></p>
-      </td>
-      <td align="center" width="40%">
-        <img src="https://aneesraza.netlify.app/assets/images/experiences/anees.webp" alt="Muhammad Anees Raza" width="200" style="border-radius: 10px; border: 2px solid #667eea;"/>
+      <td align="center" style="padding: 20px;">
+        <img src="https://aneesraza.netlify.app/assets/images/experiences/anees.webp" width="200px" style="border-radius: 50%; border: 4px solid #667EEA;"/>
+        <br/>
+        <h3>Muhammad Anees Raza</h3>
+        <p><i>Full Stack Developer</i></p>
+        <br/>
+        <p>
+          📍 <b>Location:</b> Karachi, Pakistan<br/>
+          📧 <b>Email:</b> <a href="mailto:despicabledev110@gmail.com">despicabledev110@gmail.com</a><br/>
+          🌐 <b>Portfolio:</b> <a href="https://aneesraza.netlify.app">aneesraza.netlify.app</a><br/>
+          💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/muhammad-anees-raza">muhammad-anees-raza</a>
+        </p>
+        <br/>
+        <p><b>💬 Open for:</b></p>
+        <p>✅ Freelance Projects<br/>✅ Full-time Opportunities<br/>✅ Consulting<br/>✅ Collaboration</p>
       </td>
     </tr>
   </table>
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Technical Proficiency
-
+<!-- Quote Section -->
 <div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" width="600px"/>
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Snake Animation -->
+<h2 align="center">
+  🐍 WATCH MY CONTRIBUTIONS GET EATEN
+</h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-  <p><em>"Transforming complex problems into elegant solutions through code"</em></p>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Footer with Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+  
+  <h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+    Made with 💜 and ☕ by Muhammad Anees Raza
+  </h3>
+  
+  <p>
+    <i>"Transforming complex problems into elegant solutions, one commit at a time"</i>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_find_them_useful!-667EEA?style=for-the-badge" alt="Star Badge"/>
+  </p>
+</div>
+
+<!-- Visitor Counter with Style -->
+<div align="center">
+  <img src="https://count.getloli.com/get/@despicabledeveloper?theme=rule34" alt="Visitor Count"/>
 </div>
