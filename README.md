@@ -150,13 +150,42 @@ const muhammadAneesRaza = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Trophies -->
+<!-- Achievements & Stats -->
 <h2 align="center">
-  🏆 GITHUB TROPHIES
+  🏆 ACHIEVEMENTS & MILESTONES
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=despicabledeveloper&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=despicabledeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🏆-Public_Repos-667EEA?style=for-the-badge" alt="Repos"/>
+        <br/>
+        <img src="https://img.shields.io/github/stars/despicabledeveloper?style=social" alt="Stars"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🎯-Commits-764BA2?style=for-the-badge" alt="Commits"/>
+        <br/>
+        <img src="https://img.shields.io/github/commit-activity/m/despicabledeveloper/despicabledeveloper?style=social" alt="Commits"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/📦-Projects-667EEA?style=for-the-badge" alt="Projects"/>
+        <br/>
+        <b>Enterprise Grade</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/⚡-Active-764BA2?style=for-the-badge" alt="Active"/>
+        <br/>
+        <b>Daily Coding</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Animated Divider -->
