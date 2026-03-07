@@ -35,7 +35,7 @@
 const muhammadAneesRaza = {
     role: "Senior Full Stack Developer",
     location: "Karachi, Pakistan 🇵🇰",
-    code: ["PHP", "C#", "JavaScript", "SQL", "HTML/CSS"],
+    code: ["PHP", "C#","Python", "JavaScript", "SQL","MYSQL", "HTML/CSS"],
     technologies: {
         backend: {
             php: ["Laravel 8/9/10", "WordPress"],
@@ -55,10 +55,8 @@ const muhammadAneesRaza = {
 
 <br clear="right"/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Tech Stack with Glowing Effect -->
 <h2 align="center">
   TECHNOLOGY ARSENAL
 </h2>
@@ -127,13 +125,13 @@ const muhammadAneesRaza = {
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E6EDF3&count_private=true&include_all_commits=true&cache_seconds=1800">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E6EDF3&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E6EDF3&count_private=true&include_all_commits=true" alt="GitHub Stats"/> -->
   </picture>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3&cache_seconds=1800">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3" alt="GitHub Streak"/>
-  </picture>
+    <!-- <img width="49%" src="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3" alt="GitHub Streak"/>
+  </picture> -->
 </div>
 
 <div align="center">
