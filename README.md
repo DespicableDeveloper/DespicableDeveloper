@@ -2,12 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=MUHAMMAD%20ANEES%20RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Problem%20Solver&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
 </div>
 
-<!-- Animated Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Scalable+Web+Solutions;Passionate+About+Clean+Code;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
 </div>
 
-<!-- Glowing Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-anees-raza" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
@@ -23,10 +21,8 @@
   <img src="https://img.shields.io/github/followers/despicabledeveloper?label=Followers&style=for-the-badge&color=764BA2&labelColor=667EEA" alt="Followers"/>
 </p>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- About Me Section -->
 <h2 align="center">
   ABOUT ME
 </h2>
@@ -51,7 +47,7 @@ const muhammadAneesRaza = {
     },
     architecture: ["MVC", "RESTful APIs", "Microservices"],
     currentFocus: "Building enterprise-grade applications",
-    funFact: "I debug code faster than I debug my life 🐛"
+    funFact: "I debug code faster than I debug my life "
 };
 ```
 
@@ -69,7 +65,7 @@ const muhammadAneesRaza = {
 
 <div align="center">
 
-### 🎯 Backend Development
+### Backend Development
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&shadow=0px_4px_15px_0px_rgba(255,45,32,0.4)" alt="Laravel"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
@@ -78,7 +74,7 @@ const muhammadAneesRaza = {
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -87,13 +83,13 @@ const muhammadAneesRaza = {
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 </p>
 
-### 🗄️ Database & Storage
+### Database & Storage
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -105,17 +101,15 @@ const muhammadAneesRaza = {
 
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Expertise Matrix -->
 <h2 align="center">
-  🚀 EXPERTISE MATRIX
+  EXPERTISE MATRIX
 </h2>
 
 <div align="center">
 
-| 💻 Backend Engineering | 🎨 Frontend Development | 🗃️ Database Design | ⚙️ DevOps & Tools |
+|  Backend Engineering |  Frontend Development |  Database Design |  DevOps & Tools |
 |:----------------------:|:-----------------------:|:------------------:|:-----------------:|
 | ⭐⭐⭐⭐⭐ Laravel | ⭐⭐⭐⭐⭐ Responsive UI | ⭐⭐⭐⭐⭐ MySQL | ⭐⭐⭐⭐ Git |
 | ⭐⭐⭐⭐ .NET Core | ⭐⭐⭐⭐⭐ Bootstrap | ⭐⭐⭐⭐ SQL Server | ⭐⭐⭐⭐ API Testing |
@@ -124,12 +118,10 @@ const muhammadAneesRaza = {
 
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub Stats with Dark Theme -->
 <h2 align="center">
-  📊 GITHUB ANALYTICS
+  GITHUB ANALYTICS
 </h2>
 
 <div align="center">
@@ -156,12 +148,10 @@ const muhammadAneesRaza = {
   </picture>
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Achievements & Stats -->
 <h2 align="center">
-  🏆 ACHIEVEMENTS & MILESTONES
+  ACHIEVEMENTS & MILESTONES
 </h2>
 
 <div align="center">
@@ -200,12 +190,10 @@ const muhammadAneesRaza = {
   </table>
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Development Philosophy -->
 <h2 align="center">
-  💡 DEVELOPMENT PHILOSOPHY
+  DEVELOPMENT PHILOSOPHY
 </h2>
 
 <div align="center">
@@ -233,12 +221,10 @@ console.log("Great software is built by great people, not just great code");
 
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Activity Graph -->
 <h2 align="center">
-  📈 CONTRIBUTION ACTIVITY
+  CONTRIBUTION ACTIVITY
 </h2>
 
 <div align="center">
@@ -248,12 +234,10 @@ console.log("Great software is built by great people, not just great code");
   </picture>
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Professional Highlights -->
 <h2 align="center">
-  ⚡ PROFESSIONAL HIGHLIGHTS
+  PROFESSIONAL HIGHLIGHTS
 </h2>
 
 <table align="center">
@@ -281,38 +265,34 @@ console.log("Great software is built by great people, not just great code");
   </tr>
 </table>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- What I'm Up To -->
 <h2 align="center">
-  🎯 CURRENTLY WORKING ON
+  CURRENTLY WORKING ON
 </h2>
 
 <div align="center">
 
 ```javascript
 const currentProjects = [
-    "🚀 Building enterprise-grade Laravel applications",
-    "💡 Mastering advanced .NET Core patterns",
-    "📊 Optimizing database performance",
-    "🎨 Creating responsive UI/UX experiences",
-    "📚 Contributing to open-source projects"
+    "Building enterprise-grade Laravel applications",
+    "Mastering advanced .NET Core patterns",
+    "Optimizing database performance",
+    "Creating responsive UI/UX experiences",
+    "Contributing to open-source projects"
 ];
 
 currentProjects.forEach(project => {
-    console.log(`✨ ${project}`);
+    console.log(`${project}`);
 });
 ```
 
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Contact Section with Style -->
 <h2 align="center">
-  📫 LET'S CONNECT
+  LET'S CONNECT
 </h2>
 
 <div align="center">
@@ -325,31 +305,27 @@ currentProjects.forEach(project => {
         <p><i>Full Stack Developer</i></p>
         <br/>
         <p>
-          📍 <b>Location:</b> Karachi, Pakistan<br/>
-          📧 <b>Email:</b> <a href="mailto:despicabledev110@gmail.com">despicabledev110@gmail.com</a><br/>
-          🌐 <b>Portfolio:</b> <a href="https://aneesraza.netlify.app">aneesraza.netlify.app</a><br/>
-          💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/muhammad-anees-raza">muhammad-anees-raza</a>
+          <b>Location:</b> Karachi, Pakistan<br/>
+          <b>Email:</b> <a href="mailto:despicabledev110@gmail.com">despicabledev110@gmail.com</a><br/>
+          <b>Portfolio:</b> <a href="https://aneesraza.netlify.app">aneesraza.netlify.app</a><br/>
+          <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/muhammad-anees-raza">muhammad-anees-raza</a>
         </p>
         <br/>
-        <p><b>💬 Open for:</b></p>
-        <p>✅ Freelance Projects<br/>✅ Full-time Opportunities<br/>✅ Consulting<br/>✅ Collaboration</p>
+        <p><b>Open for:</b></p>
+        <p>Freelance Projects<br/>Full-time Opportunities<br/>Consulting<br/>Collaboration</p>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Quote Section -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" width="600px"/>
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Snake Animation -->
 <h2 align="center">
   WATCH MY CONTRIBUTIONS
 </h2>
@@ -358,10 +334,8 @@ currentProjects.forEach(project => {
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Footer with Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
   
@@ -378,7 +352,6 @@ currentProjects.forEach(project => {
   </p>
 </div>
 
-<!-- Visitor Counter with Style -->
 <div align="center">
   <img src="https://count.getloli.com/get/@despicabledeveloper?theme=rule34" alt="Visitor Count"/>
 </div>
