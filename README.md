@@ -127,12 +127,12 @@ const muhammadAneesRaza = {
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=despicabledeveloper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E6EDF3&langs_count=8&cache_seconds=1800">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=despicabledeveloper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E6EDF3&langs_count=8" style="visibility:hidden;" alt="Top Languages"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=despicabledeveloper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E6EDF3&langs_count=8" style="visibility:hidden;" alt="Top Languages"/>
   </picture>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&custom_title=Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area=true&hide_border=true&cache_seconds=1800">
-    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&custom_title=Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&custom_title=Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
   </picture>
 </div>
 
