@@ -287,7 +287,7 @@ currentProjects.forEach(project => {
   <table>
     <tr>
       <td align="center" style="padding: 20px;">
-        <img src="https://aneesraza.netlify.app/assets/images/experiences/anees.webp" width="200px" style="border-radius: 50%; border: 4px solid #667EEA;"/>
+        <img src="https://aneesraza.netlify.app/assets/images/experiences/anees.webp" width="80%" style="border-radius: 50%; border: 4px solid #667EEA;"/>
         <br/>
         <h3>Muhammad Anees Raza</h3>
         <p><i>Full Stack Developer</i></p>
