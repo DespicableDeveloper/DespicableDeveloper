@@ -318,7 +318,7 @@ currentProjects.forEach(project => {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
   
   <h3>
-    Made with 💜 and ☕ by Muhammad Anees Raza
+    Made with ♥ and ☕ by Muhammad Anees Raza
   </h3>
   
   <p>
