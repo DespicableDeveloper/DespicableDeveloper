@@ -109,10 +109,10 @@ const muhammadAneesRaza = {
 
 |  Backend Engineering |  Frontend Development |  Database Design |  DevOps & Tools |
 |:----------------------:|:-----------------------:|:------------------:|:-----------------:|
-| ⭐⭐⭐⭐⭐ Laravel | ⭐⭐⭐⭐⭐ Responsive UI | ⭐⭐⭐⭐⭐ MySQL | ⭐⭐⭐⭐ Git |
-| ⭐⭐⭐⭐ .NET Core | ⭐⭐⭐⭐⭐ Bootstrap | ⭐⭐⭐⭐ SQL Server | ⭐⭐⭐⭐ API Testing |
-| ⭐⭐⭐⭐⭐ RESTful APIs | ⭐⭐⭐⭐ JavaScript | ⭐⭐⭐⭐ Query Optimization | ⭐⭐⭐⭐ Code Review |
-| ⭐⭐⭐⭐⭐ MVC Pattern | ⭐⭐⭐⭐ AJAX | ⭐⭐⭐⭐ Data Migration | ⭐⭐⭐⭐ Agile |
+| Laravel | Responsive UI | MySQL | Git |
+| .NET Core | Bootstrap | SQL Server | API Testing |
+| RESTful APIs | JavaScript | Query Optimization | Code Review |
+| MVC Pattern | AJAX | Data Migration | React & React Native |
 
 </div>
 
