@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/muhammad-anees-raza" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="mailto:despicabledev110@gmail.com">
+  <a href="mailto:aneesraza789456@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
   <a href="https://aneesraza.netlify.app" target="_blank">
@@ -277,14 +277,14 @@ currentProjects.forEach(project => {
   <table>
     <tr>
       <td align="center" style="padding: 20px;">
-        <img src="https://github.com/DespicableDeveloper/DespicableDeveloper/blob/main/convocation.jpg" width="50%" style="border-radius: 50%; border: 4px solid #667EEA;"/>
+        <img src="https://github.com/DespicableDeveloper/DespicableDeveloper/blob/main/convocation.jpg" width="100%" height="40vh" style="border-radius: 50%; border: 4px solid #667EEA;"/>
         <br/>
         <h3>Muhammad Anees Raza</h3>
         <p><i>Full Stack Developer</i></p>
         <br/>
         <p>
           <b>Location:</b> Karachi, Pakistan<br/>
-          <b>Email:</b> <a href="mailto:despicabledev110@gmail.com">despicabledev110@gmail.com</a><br/>
+          <b>Email:</b> <a href="mailto:aneesraza789456@gmail.com">aneesraza789456@gmail.com</a><br/>
           <b>Portfolio:</b> <a href="https://aneesraza.netlify.app">aneesraza.netlify.app</a><br/>
           <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/muhammad-anees-raza">muhammad-anees-raza</a>
         </p>
