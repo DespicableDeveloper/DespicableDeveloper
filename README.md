@@ -277,7 +277,7 @@ currentProjects.forEach(project => {
   <table>
     <tr>
       <td align="center" style="padding: 20px;">
-        <img src="https://drive.google.com/file/d/1bGFFMgcQkF9xTKP9Mgib-r7G0EzS3XSZ/view?usp=sharing" width="80%" style="border-radius: 50%; border: 4px solid #667EEA;"/>
+        <img src="https://drive.google.com/u/0/drive-viewer/AKGpihYUKXFD0IEPLvofG48QiP7gwqh9ZzOk63h3j7Qbv7izSCtDlqgOMYcW1kyOp0TCSVQ1ehRSKpLojkwTIXfLaypVeJEVUPbYsDU=s1600-rw-v1?auditContext=forDisplay" width="80%" style="border-radius: 50%; border: 4px solid #667EEA;"/>
         <br/>
         <h3>Muhammad Anees Raza</h3>
         <p><i>Full Stack Developer</i></p>
