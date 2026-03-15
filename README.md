@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=MUHAMMAD%20ANEES%20RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Problem%20Solver&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=MUHAMMAD%20ANEES%20RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -277,7 +277,7 @@ currentProjects.forEach(project => {
   <table>
     <tr>
       <td align="center" style="padding: 20px;">
-        <img src="https://aneesraza.netlify.app/assets/images/experiences/anees.webp" width="80%" style="border-radius: 50%; border: 4px solid #667EEA;"/>
+        <img src="https://drive.google.com/file/d/1bGFFMgcQkF9xTKP9Mgib-r7G0EzS3XSZ/view?usp=sharing" width="80%" style="border-radius: 50%; border: 4px solid #667EEA;"/>
         <br/>
         <h3>Muhammad Anees Raza</h3>
         <p><i>Full Stack Developer</i></p>
