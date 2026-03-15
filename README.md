@@ -122,19 +122,9 @@ const muhammadAneesRaza = {
   GITHUB ANALYTICS
 </h2>
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E6EDF3&count_private=true&include_all_commits=true&cache_seconds=1800"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E6EDF3&count_private=true&include_all_commits=true" alt="GitHub Stats"/> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3&cache_seconds=1800"><img width="100%" src="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3" style="visibility:hidden;" alt="GitHub Streak"/> </picture></div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E6EDF3&count_private=true&include_all_commits=true&cache_seconds=1800"> <img width="70%" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E6EDF3&count_private=true&include_all_commits=true" alt="GitHub Stats"/> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3&cache_seconds=1800"><img width="100%" src="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3" style="visibility:hidden;" alt="GitHub Streak"/> </picture></div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=despicabledeveloper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E6EDF3&langs_count=8&cache_seconds=1800">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=despicabledeveloper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E6EDF3&langs_count=8" style="visibility:hidden;" alt="Top Languages"/>
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&custom_title=Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area=true&hide_border=true&cache_seconds=1800">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&custom_title=Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
-  </picture>
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -155,22 +145,22 @@ const muhammadAneesRaza = {
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🏆-Repositories-667EEA?style=for-the-badge&labelColor=0D1117" alt="Repos"/>
+        <img src="https://img.shields.io/badge/Repositories-667EEA?style=for-the-badge&labelColor=0D1117" alt="Repos"/>
         <br/><br/>
         <img src="https://img.shields.io/github/stars/despicabledeveloper?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0D1117&color=764BA2" alt="Stars"/>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🎯-Contributions-764BA2?style=for-the-badge&labelColor=0D1117" alt="Contributions"/>
+        <img src="https://img.shields.io/badge/Contributions-764BA2?style=for-the-badge&labelColor=0D1117" alt="Contributions"/>
         <br/><br/>
         <img src="https://img.shields.io/badge/Active-Daily-667EEA?style=for-the-badge&labelColor=0D1117" alt="Active"/>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/📦-Projects-667EEA?style=for-the-badge&labelColor=0D1117" alt="Projects"/>
+        <img src="https://img.shields.io/badge/Projects-667EEA?style=for-the-badge&labelColor=0D1117" alt="Projects"/>
         <br/><br/>
         <img src="https://img.shields.io/badge/Grade-Enterprise-764BA2?style=for-the-badge&labelColor=0D1117" alt="Grade"/>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/⚡-Experience-764BA2?style=for-the-badge&labelColor=0D1117" alt="Experience"/>
+        <img src="https://img.shields.io/badge/Experience-764BA2?style=for-the-badge&labelColor=0D1117" alt="Experience"/>
         <br/><br/>
         <img src="https://img.shields.io/badge/Level-Senior-667EEA?style=for-the-badge&labelColor=0D1117" alt="Level"/>
       </td>
