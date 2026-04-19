@@ -285,7 +285,7 @@ currentProjects.forEach(project => {
   <table>
     <tr>
       <td align="center" style="padding: 20px;">
-        <img src="https://github.com/DespicableDeveloper/DespicableDeveloper/blob/main/1.jpg" width="90%"  style="border-radius: 50%; border: 4px solid #667EEA;"/>
+        <img src="https://github.com/DespicableDeveloper/DespicableDeveloper/blob/main/2.jpg" width="100%"  style="border-radius: 50%; border: 4px solid #667EEA;"/>
         <br/>
         <h3>Muhammad Anees Raza</h3>
         <p><i>Full Stack Developer</i></p>
