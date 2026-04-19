@@ -138,7 +138,7 @@ const muhammadAneesRaza = {
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=despicabledeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-    <img src="https://github-profile-trophy.vercel.app/?username=despicabledeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=despicabledeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/> -->
   </picture>
 </div>
 
