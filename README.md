@@ -125,28 +125,21 @@ const muhammad_anees_raza = {
 
 </div> -->
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <h2 align="center">
-  GITHUB ANALYTICS
-</h2>
-
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E6EDF3&count_private=true&include_all_commits=true&cache_seconds=1800"> <img width="90%" height="250vh" src="https://github-readme-stats.vercel.app/api?username=despicabledeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E6EDF3&count_private=true&include_all_commits=true" alt="GitHub Stats"/> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3&cache_seconds=1800"><img width="90%" height="250vh" src="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3" style="visibility:hidden;" alt="GitHub Streak"/> </picture></div>
-
-
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  ACHIEVEMENTS & MILESTONES
+  CONTRIBUTION ACTIVITY
 </h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=despicabledeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-    <!-- <img src="https://github-profile-trophy.vercel.app/?username=despicabledeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/> -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&custom_title=Muhammad%20Anees%20Raza's%20Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area_color=667EEA&area=true&hide_border=true&height=300">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&custom_title=Muhammad%20Anees%20Raza's%20Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area_color=667EEA&area=true&hide_border=true&height=300" width="100%" alt="Contribution Graph"/>
   </picture>
 </div>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
@@ -207,18 +200,15 @@ console.log("First make something, then make it beautiful");
 
 </div>
 
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  CONTRIBUTION ACTIVITY
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&custom_title=Muhammad%20Anees%20Raza's%20Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area_color=667EEA&area=true&hide_border=true&height=300">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=despicabledeveloper&custom_title=Muhammad%20Anees%20Raza's%20Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area_color=667EEA&area=true&hide_border=true&height=300" width="100%" alt="Contribution Graph"/>
+<div align="center"> 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3&cache_seconds=1800"><img width="90%" height="250vh" src="https://streak-stats.demolab.com/?user=despicabledeveloper&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3" style="visibility:hidden;" alt="GitHub Streak"/> </picture></div>
   </picture>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
