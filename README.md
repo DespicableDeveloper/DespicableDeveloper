@@ -11,23 +11,23 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-anees-raza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=flat-square&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/muhammad-anees-raza">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:aneesraza789456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-white?style=flat-square&logo=gmail&logoColor=white&color=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://aneesraza.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-white?style=flat-square&logo=google-chrome&logoColor=white&color=764BA2" alt="Portfolio"/>
+  <a href="https://aneesraza.netlify.app">
+    <img src="https://img.shields.io/badge/-Portfolio-764BA2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/despicabledeveloper">
+    <img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=despicabledeveloper&label=Profile+Views&color=667eea&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/despicabledeveloper?label=Followers&style=flat-square&color=764BA2" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=despicabledeveloper&style=for-the-badge&color=0077B5" />
+  <img src="https://img.shields.io/github/followers/despicabledeveloper?style=for-the-badge&color=764BA2&logo=github&logoColor=white&label=Followers" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
