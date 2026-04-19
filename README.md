@@ -143,34 +143,6 @@ const muhammad_anees_raza = {
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Repositories-667EEA?style=for-the-badge&labelColor=0D1117" alt="Repos"/>
-        <br/><br/>
-        <img src="https://img.shields.io/github/stars/despicabledeveloper?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0D1117&color=764BA2" alt="Stars"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Contributions-764BA2?style=for-the-badge&labelColor=0D1117" alt="Contributions"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Active-Daily-667EEA?style=for-the-badge&labelColor=0D1117" alt="Active"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Projects-667EEA?style=for-the-badge&labelColor=0D1117" alt="Projects"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Grade-Enterprise-764BA2?style=for-the-badge&labelColor=0D1117" alt="Grade"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Experience-764BA2?style=for-the-badge&labelColor=0D1117" alt="Experience"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Level-Senior-667EEA?style=for-the-badge&labelColor=0D1117" alt="Level"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <h2 align="center">
   DEVELOPMENT PHILOSOPHY
