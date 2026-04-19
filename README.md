@@ -1,10 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=280&section=header&text=MUHAMMAD%20ANEES%20RAZA&fontSize=60&fontColor=000&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=280&section=header&text=MUHAMMAD%20ANEES%20RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
 </div>
 
-<!-- <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Scalable+Web+Solutions;Passionate+About+Clean+Code" alt="Typing SVG" /></a>
-</div> -->
+
 <div align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I+Build+Websites;I+Write+Simple+Clean+Code" alt="Typing SVG" />
@@ -14,17 +12,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-anees-raza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=flat-square&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:aneesraza789456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-white?style=flat-square&logo=gmail&logoColor=white&color=D14836" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://aneesraza.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=764BA2" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-white?style=flat-square&logo=google-chrome&logoColor=white&color=764BA2" alt="Portfolio"/>
   </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=despicabledeveloper&label=PROFILE+VIEWS&color=667eea&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/despicabledeveloper?label=Followers&style=for-the-badge&color=764BA2&labelColor=667EEA" alt="Followers"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=despicabledeveloper&label=Profile+Views&color=667eea&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/despicabledeveloper?label=Followers&style=flat-square&color=764BA2" alt="Followers"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
