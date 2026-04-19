@@ -35,17 +35,17 @@
 <div align="left" style="padding: 20px;">
 
 ```typescript
-const muhammadAneesRaza = {
-    role: "Senior Full Stack Developer",
-    location: "Karachi, Pakistan 🇵🇰",
-    code: ["PHP", "C#","Python", "JavaScript", "SQL","MYSQL", "HTML/CSS"],
+const muhammad_anees_raza = {
+    role: "Full Stack Developer",
+    location: "Karachi, Pakistan",
+    skills: ["HTML","CSS","JS","Jquery","Git","Github","XML","JSON","MYSQL","PHP","Laravel","C#","SQL_Server","Console_App","Windows_Form","ASP_.Net_Core_MVC","React","Node_js","Python","R_Programming","React Native"],
     technologies: {
         backend: {
             php: ["Laravel 8/9/10", "WordPress"],
-            csharp: [".NET Core", "ASP.NET MVC"]
+            csharp: [".NET_Core", "ASP.NET_MVC"]
         },
         frontend: ["Bootstrap 5", "jQuery", "AJAX", "Responsive Design"],
-        databases: ["MySQL", "MS SQL Server"],
+        databases: ["MySQL", "SQL Server","],
         design: ["Figma", "UI/UX Design", "Canva"]
     },
     architecture: ["MVC", "RESTful APIs", "Microservices"],
@@ -73,6 +73,10 @@ const muhammadAneesRaza = {
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 </p>
 
 ### Frontend Languages  
