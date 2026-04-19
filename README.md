@@ -287,7 +287,7 @@ currentProjects.forEach(project => {
       <td align="center" style="padding: 20px;">
         <img src="https://github.com/DespicableDeveloper/DespicableDeveloper/blob/main/2.jpg" width="100%"  style="border-radius: 50%; border: 4px solid #667EEA;"/>
         <br/>
-        <h3>Muhammad Anees Raza</h3>
+        <h1>Muhammad~Anees~Raza</h1>
         <p><i>Full Stack Developer</i></p>
         <br/>
         <p align="center">
@@ -312,7 +312,12 @@ currentProjects.forEach(project => {
         </p> -->
         <br/>
         <p><b>Open for:</b></p>
-        <p>Freelance Projects<br/>Full-time Opportunities<br/>Consulting<br/>Collaboration</p>
+       <p align="center">
+  <img src="https://img.shields.io/badge/Freelance%20Projects-0077B5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--time%20Opportunities-764BA2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consulting-EA4335?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Collaboration-24292e?style=for-the-badge&logoColor=white" />
+</p>
       </td>
     </tr>
   </table>
