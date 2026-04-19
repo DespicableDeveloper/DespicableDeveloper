@@ -343,7 +343,7 @@ currentProjects.forEach(project => {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=000&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
   
   <h3>
     Made with ♥ and ☕ by Muhammad Anees Raza
@@ -354,7 +354,7 @@ currentProjects.forEach(project => {
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_find_them_useful!-667EEA?style=for-the-badge" alt="Star Badge"/>
+    <img src="https://img.shields.io/badge/Star_my_repos_if_you_find_them_useful!-667EEA?style=for-the-badge" alt="Star Badge"/>
   </p>
 </div>
 
