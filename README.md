@@ -108,7 +108,7 @@ const muhammad_anees_raza = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
   EXPERTISE
@@ -123,9 +123,9 @@ const muhammad_anees_raza = {
 | RESTful APIs | JavaScript | Query Optimization | Code Review |
 | MVC Pattern | AJAX | Data Migration | React & React Native |
 
-</div>
+</div> -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <h2 align="center">
   GITHUB ANALYTICS
