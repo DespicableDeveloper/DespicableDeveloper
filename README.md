@@ -24,12 +24,6 @@
     <img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=despicabledeveloper&style=for-the-badge&color=0077B5" />
-  <img src="https://img.shields.io/github/followers/despicabledeveloper?style=for-the-badge&color=764BA2&logo=github&logoColor=white&label=Followers" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
