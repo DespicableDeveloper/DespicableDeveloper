@@ -1,4 +1,4 @@
-<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/f33f0c1e-6201-4000-be2c-d4b99fde1039" /><div align="center">
+<!-- <img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/f33f0c1e-6201-4000-be2c-d4b99fde1039" /><div align="center"> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=280&section=header&text=MUHAMMAD%20ANEES%20RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
 </div>
 
