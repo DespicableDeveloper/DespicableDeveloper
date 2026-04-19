@@ -3,14 +3,14 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I+Build+Websites;I+Write+Simple+Clean+Code" alt="Typing SVG" />
   </a>
-</div>
+</div> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-anees-raza">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -23,7 +23,7 @@
   <a href="https://github.com/despicabledeveloper">
     <img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</p> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
