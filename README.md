@@ -196,8 +196,7 @@ const myApproach: DeveloperMindset = {
     collaboration: "Lifting the team through knowledge sharing"
 };
 
-// Core Belief
-console.log("Great software is built by great people, not just great code");
+console.log("First make something, then make it beautiful");
 ```
 
 </div>
