@@ -1,4 +1,4 @@
-<div align="center">
+<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/f33f0c1e-6201-4000-be2c-d4b99fde1039" /><div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=280&section=header&text=MUHAMMAD%20ANEES%20RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
 </div>
 
@@ -285,12 +285,26 @@ currentProjects.forEach(project => {
         <h3>Muhammad Anees Raza</h3>
         <p><i>Full Stack Developer</i></p>
         <br/>
-        <p>
+        <p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-anees-raza">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aneesraza789456@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://aneesraza.netlify.app">
+    <img src="https://img.shields.io/badge/-Portfolio-764BA2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/despicabledeveloper">
+    <img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+        <!-- <p>
           <b>Location:</b> Karachi, Pakistan<br/>
           <b>Email:</b> <a href="mailto:aneesraza789456@gmail.com">aneesraza789456@gmail.com</a><br/>
           <b>Portfolio:</b> <a href="https://aneesraza.netlify.app">aneesraza.netlify.app</a><br/>
           <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/muhammad-anees-raza">muhammad-anees-raza</a>
-        </p>
+        </p> -->
         <br/>
         <p><b>Open for:</b></p>
         <p>Freelance Projects<br/>Full-time Opportunities<br/>Consulting<br/>Collaboration</p>
