@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=280&section=header&text=MUHAMMAD%20ANEES%20RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=280&section=header&text=MUHAMMAD%20ANEES%20RAZA&fontSize=60&fontColor=000&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
 </div>
 
 <!-- <div align="center">
@@ -321,7 +321,7 @@ currentProjects.forEach(project => {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=000&animation=twinkling&fontAlignY=70" width="100%"/>
   
   <h3>
     Made with ♥ and ☕ by Muhammad Anees Raza
