@@ -305,7 +305,6 @@ currentProjects.forEach(project => {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
   
   <h3>
     Made with ♥ and ☕ by Muhammad Anees Raza
@@ -323,3 +322,4 @@ currentProjects.forEach(project => {
 <div align="center">
   <img src="https://count.getloli.com/get/@despicabledeveloper?theme=rule34" alt="Visitor Count"/>
 </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
