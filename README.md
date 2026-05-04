@@ -183,6 +183,7 @@ console.log("First make something, then make it beautiful");
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://streak-stats.demolab.com/?user=aneesraza-dev&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3&cache_seconds=1800">
     
+  <img width="90%" height="250vh" src="https://streak-stats.demolab.com/?user=aneesraza-dev&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=FF6B6B&currStreakLabel=E6EDF3"  alt="GitHub Streak"/>
   </picture>
 </div>
 
