@@ -139,7 +139,7 @@ const muhammad_anees_raza = {
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aneesraza-dev&custom_title=Muhammad%20Anees%20Raza's%20Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area_color=667EEA&area=true&hide_border=true&height=300" width="100%" alt="Contribution Graph"/>
   </picture>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 
 
@@ -175,7 +175,7 @@ console.log("First make something, then make it beautiful");
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div align="center"> 
   <picture> 
